@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCQAsov3XqUJpcLIlHHOTFnpAr137AkIvw",
-  authDomain: "voteelegantkids.firebaseapp.com",
-  databaseURL: "https://voteelegantkids-default-rtdb.firebaseio.com",
-  projectId: "voteelegantkids",
-  storageBucket: "voteelegantkids.appspot.com",
-  messagingSenderId: "509518530087",
-  appId: "1:509518530087:web:d96e46e9ee5e21bf88b002",
+  apiKey: "AIzaSyAyeqBRxcbPLiS1Bv1I8qIor6PtCYnyqO8",
+  authDomain: "ritenoureu.firebaseapp.com",
+  databaseURL: "https://ritenoureu-default-rtdb.firebaseio.com",
+  projectId: "ritenoureu",
+  storageBucket: "ritenoureu.appspot.com",
+  messagingSenderId: "968171972375",
+  appId: "1:968171972375:web:e2080502d8088b2fe8b952"
 };
 firebase.initializeApp(firebaseConfig);
 
